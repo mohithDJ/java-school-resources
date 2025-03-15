@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=isSpecial
+comment1.params=z
+comment1.target=int\ Fact(int)
+comment2.params=x
+comment2.target=int\ check(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

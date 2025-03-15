@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=isPronic
+comment1.params=
+comment1.target=isPronic()
+comment2.params=
+comment2.target=void\ inputCheck()
+comment3.params=n1\ n2\ num
+comment3.target=int\ pronic(int,\ int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=primeAdam
+comment1.params=
+comment1.target=primeAdam()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=x\ z
+comment3.target=int\ isprime(int,\ int)
+comment4.params=x\ sum
+comment4.target=int\ rev(int,\ int)
+comment5.params=x
+comment5.target=int\ isPrimeAdam(int)
+comment6.params=
+comment6.target=void\ display()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=primePalin
+comment1.params=
+comment1.target=void\ inputCheck()
+comment2.params=x
+comment2.target=int\ isPrime(int)
+comment3.params=x
+comment3.target=int\ rever(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
