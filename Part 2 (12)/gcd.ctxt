@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=gcd
+comment1.params=x\ z
+comment1.target=int\ Gcd(int,\ int)
+comment2.params=
+comment2.target=void\ somethin()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
